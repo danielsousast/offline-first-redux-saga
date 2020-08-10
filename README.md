@@ -4,6 +4,6 @@ Nesse repositório foi aplicado o conceito de fila offline no React Native utili
 
 
 ### Bibliotecas utilizadas
--- Redux
--- Redux Saga
--- Redux Offline Queue
+- Redux
+- Redux Saga
+- Redux Offline Queue
